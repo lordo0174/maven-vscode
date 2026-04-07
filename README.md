@@ -41,7 +41,7 @@ Se modificó el archivo `pom.xml` para sustituir versiones antiguas por **JUnit 
     <version>5.10.0</version>
     <scope>test</scope>
 </dependency>
-
+```
 
 <img width="729" height="597" alt="image" src="https://github.com/user-attachments/assets/37f74075-b4f5-4b21-871b-de2a83549669" />
 
