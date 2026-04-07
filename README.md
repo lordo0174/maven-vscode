@@ -47,3 +47,6 @@ Se modificó el archivo `pom.xml` para sustituir versiones antiguas por **JUnit 
 
 <img width="392" height="196" alt="image" src="https://github.com/user-attachments/assets/53e2ffa0-2b5e-45cf-bc30-e60f89315a31" />
 
+---
+
+Trabajo realizado por: lordo0174
